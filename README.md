@@ -1,7 +1,7 @@
-Role Name
+Vcenter create snapsho
 =========
 
-A brief description of the role goes here.
+Create a snapshot of a vm and add a description to the comments fields
 
 Requirements
 ------------

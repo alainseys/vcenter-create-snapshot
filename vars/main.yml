@@ -1,2 +1,6 @@
 ---
 # vars file for vcenter-create-snapshot
+vcenter_hostname: vcenter.yourdomain.com
+vcenter_datacetner: "dc"
+vcenter_vmcluster: "dc-cl"
+vcenter_vm_folder: "vm"
